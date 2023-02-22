@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="999c93c5-5e20-4d1d-8ed1-7f54ca626860" name="Changes" comment="" />
+    <list default="true" id="999c93c5-5e20-4d1d-8ed1-7f54ca626860" name="Changes" comment="code updated">
+      <change afterPath="$PROJECT_DIR$/Day143-HLD_HLDBasics_ConsistentHashing/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day143-HLD_HLDBasics_ConsistentHashing/notes/HLD_1___System_Design_101___Consistent_Hashing_ (1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day143-HLD_HLDBasics_ConsistentHashing/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day143-HLD_HLDBasics_ConsistentHashing/src/main/java/com/scaler/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -15,17 +32,28 @@
     </option>
   </component>
   <component name="ProjectId" id="2M5S4K7FT5mNnWmIjdJt2tvBfts" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "openjdk-19",
+    "last_opened_file_path": "C:/Users/abhil/IdeaProjects/HighLevelDesign/Day143-HLD_HLDBasics_ConsistentHashing/notes"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day143-HLD_HLDBasics_ConsistentHashing\notes" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,6 +63,19 @@
       <option name="presentableId" value="Default" />
       <updated>1677055758547</updated>
     </task>
+    <task id="LOCAL-00001" summary="code updated">
+      <created>1677055835209</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677055835209</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="code updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="code updated" />
   </component>
 </project>
