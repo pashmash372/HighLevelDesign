@@ -11,6 +11,7 @@
     <modules>
         <module>Day143-HLD_HLDBasics_ConsistentHashing</module>
         <module>Day144-HLD_Caching-1</module>
+        <module>Day145-HLD_Cachingcontinued</module>
     </modules>
 
     <properties>
