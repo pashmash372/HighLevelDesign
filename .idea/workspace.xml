@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="999c93c5-5e20-4d1d-8ed1-7f54ca626860" name="Changes" comment="code updated">
-      <change afterPath="$PROJECT_DIR$/Day143-HLD_HLDBasics_ConsistentHashing/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day143-HLD_HLDBasics_ConsistentHashing/notes/HLD_1___System_Design_101___Consistent_Hashing_ (1).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day143-HLD_HLDBasics_ConsistentHashing/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day143-HLD_HLDBasics_ConsistentHashing/src/main/java/com/scaler/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day144-HLD_Caching-1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day144-HLD_Caching-1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day144-HLD_Caching-1/src/main/java/com/scaler/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day143-HLD_HLDBasics_ConsistentHashing/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day143-HLD_HLDBasics_ConsistentHashing/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,11 +45,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "openjdk-19",
-    "last_opened_file_path": "C:/Users/abhil/IdeaProjects/HighLevelDesign/Day143-HLD_HLDBasics_ConsistentHashing/notes"
+    "last_opened_file_path": "C:/Users/abhil/IdeaProjects/HighLevelDesign/Day144-HLD_Caching-1"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day144-HLD_Caching-1" />
       <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day143-HLD_HLDBasics_ConsistentHashing\notes" />
     </key>
   </component>
@@ -70,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677055835209</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="code updated">
+      <created>1677057939848</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677057939848</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
