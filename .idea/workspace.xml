@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="999c93c5-5e20-4d1d-8ed1-7f54ca626860" name="Changes" comment="code updated" />
+    <list default="true" id="999c93c5-5e20-4d1d-8ed1-7f54ca626860" name="Changes" comment="code updated">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,23 +33,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "jdk.selected.JAVA_MODULE": "openjdk-19",
-    "last_opened_file_path": "C:/Users/abhil/IdeaProjects/HighLevelDesign/Day145-HLD_Cachingcontinued"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-19&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/abhil/IdeaProjects/HighLevelDesign/Day146-HLD_Caching3/notes&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day146-HLD_Caching3\notes" />
+      <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day146-HLD_Caching3" />
       <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day145-HLD_Cachingcontinued" />
       <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day145-HLD_Cachingcontinued\notes" />
       <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day144-HLD_Caching-1\notes" />
-      <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day144-HLD_Caching-1" />
-      <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day143-HLD_HLDBasics_ConsistentHashing\notes" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -87,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677073472686</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="code updated">
+      <created>1677075530435</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677075530435</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

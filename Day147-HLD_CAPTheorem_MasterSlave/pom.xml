@@ -3,18 +3,13 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.scaler</groupId>
+        <artifactId>HighLevelDesign</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
 
-    <groupId>com.scaler</groupId>
-    <artifactId>HighLevelDesign</artifactId>
-    <version>1.0-SNAPSHOT</version>
-    <packaging>pom</packaging>
-    <modules>
-        <module>Day143-HLD_HLDBasics_ConsistentHashing</module>
-        <module>Day144-HLD_Caching-1</module>
-        <module>Day145-HLD_Cachingcontinued</module>
-        <module>Day146-HLD_Caching3</module>
-        <module>Day147-HLD_CAPTheorem_MasterSlave</module>
-    </modules>
+    <artifactId>Day147-HLD_CAPTheorem_MasterSlave</artifactId>
 
     <properties>
         <maven.compiler.source>19</maven.compiler.source>
