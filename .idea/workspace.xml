@@ -5,24 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="999c93c5-5e20-4d1d-8ed1-7f54ca626860" name="Changes" comment="code updated">
-      <change afterPath="$PROJECT_DIR$/Day148-HLD-SQLvsNoSQL/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day148-HLD-SQLvsNoSQL/notes/HLD___SQL_vs_NoSQL.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day148-HLD-SQLvsNoSQL/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day148-HLD-SQLvsNoSQL/src/main/java/com/scaler/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day149-HLD-NoSQLcontd/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day149-HLD-NoSQLcontd/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day149-HLD-NoSQLcontd/src/main/java/com/scaler/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day150-HLD-SQLvsNoSQLcontd/notes/HLD___NoSQL_continued.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day150-HLD-SQLvsNoSQLcontd/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day150-HLD-SQLvsNoSQLcontd/src/main/java/com/scaler/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day151-HLD-NoSQLcontinued/notes/HLD___NoSQL_cont.___Orchestrater.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day151-HLD-NoSQLcontinued/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day151-HLD-NoSQLcontinued/src/main/java/com/scaler/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day152-HLD-Casestudy2-Typeahead/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day152-HLD-Casestudy2-Typeahead/src/main/java/com/scaler/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day150-HLD-SQLvsNoSQLcontd/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day151-HLD-NoSQLcontinued/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day152-HLD-Casestudy2-Typeahead/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day153-HLD-Multimaster/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day149-HLD-NoSQLcontd/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day149-HLD-NoSQLcontd/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,16 +45,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "openjdk-19",
-    "last_opened_file_path": "C:/Users/abhil/IdeaProjects/HighLevelDesign/Day151-HLD-NoSQLcontinued/notes"
+    "last_opened_file_path": "C:/Users/abhil/IdeaProjects/HighLevelDesign/Day153-HLD-Multimaster"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day152-HLD-Casestudy2-Typeahead\notes" />
-      <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day151-HLD-NoSQLcontinued\notes" />
-      <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day150-HLD-SQLvsNoSQLcontd\notes" />
-      <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day149-HLD-NoSQLcontd" />
-      <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day148-HLD-SQLvsNoSQL\notes" />
+      <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day153-HLD-Multimaster" />
+      <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day152-HLD-Casestudy2-Typeahead" />
+      <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day151-HLD-NoSQLcontinued" />
+      <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day150-HLD-SQLvsNoSQLcontd" />
+      <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day153-HLD-Multimaster\notes" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -120,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677231374008</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="code updated">
+      <created>1678873425834</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678873425834</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
