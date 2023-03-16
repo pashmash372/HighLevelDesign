@@ -65,3 +65,32 @@ https://dev.to/creativcoder/what-is-a-lsm-tree-3d75
 
 Here's an example of the kind of skills it takes to come up with good hash functions for a highly specific usecase
 https://www.youtube.com/watch?v=DMQ_HcNSOAI
+
+MONGO DB : https://www.mongodb.com/docs/manual/tutorial/getting-started/
+
+
+designing-data-intensive-applications.pdf
+
+https://github.com/jeffrey-xiao/papers/blob/master/textbooks/designing-data-intensive-applications.pdf
+
+Distributed Systems lecture series
+https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB
+
+
+How do SSDs Work? | How does your Smartphone store data? | Insanely Complex Nanoscopic Structures!
+https://www.youtube.com/watch?v=5Mh3o886qpg
+
+
+
+Bloom Filters by Example
+https://llimllib.github.io/bloomfilter-tutorial/
+
+
+
+Bloom Filter Calculator
+https://hur.st/bloomfilter/
+
+
+
+Schema Design- NOSQL Schema
+https://docs.google.com/document/d/1qVUOgfGeFeB8Xh8Zay-NbCjgDUjPVlYaN7_y8S2BTtE/edit
