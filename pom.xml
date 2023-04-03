@@ -20,6 +20,7 @@
         <module>Day151-HLD-NoSQLcontinued</module>
         <module>Day152-HLD-Casestudy2-Typeahead</module>
         <module>Day153-HLD-Multimaster</module>
+        <module>Day154-HLD_Casestudy3-Messaging</module>
     </modules>
 
     <properties>
