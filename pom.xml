@@ -21,6 +21,7 @@
         <module>Day152-HLD-Casestudy2-Typeahead</module>
         <module>Day153-HLD-Multimaster</module>
         <module>Day154-HLD_Casestudy3-Messaging</module>
+        <module>Day155-HLD_Zookeeper_Kafka</module>
     </modules>
 
     <properties>
