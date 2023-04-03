@@ -23,6 +23,11 @@
         <module>Day154-HLD_Casestudy3-Messaging</module>
         <module>Day155-HLD_Zookeeper_Kafka</module>
         <module>Day156-HLD_CaseStudy4_ElasticSearch</module>
+        <module>Day157-AMASessionChooseYourSpecialisation</module>
+        <module>Day158-HLD_S3_Quadtrees_nearestneighbor</module>
+        <module>Day159-HLD_CaseStudy5_DesignUber</module>
+        <module>Day160-HLD_Popularinterviewquestions</module>
+        <module>Day161-HLD_CaseStudy6_DesignHotstar</module>
     </modules>
 
     <properties>

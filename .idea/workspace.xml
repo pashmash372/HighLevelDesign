@@ -5,11 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="999c93c5-5e20-4d1d-8ed1-7f54ca626860" name="Changes" comment="code updated">
-      <change afterPath="$PROJECT_DIR$/Day156-HLD_CaseStudy4_ElasticSearch/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day156-HLD_CaseStudy4_ElasticSearch/notes/HLD___Case_Study_4___ElasticSearch.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day156-HLD_CaseStudy4_ElasticSearch/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day156-HLD_CaseStudy4_ElasticSearch/src/main/java/com/scaler/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day157-AMASessionChooseYourSpecialisation/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day157-AMASessionChooseYourSpecialisation/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day157-AMASessionChooseYourSpecialisation/src/main/java/com/scaler/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day158-HLD_S3_Quadtrees_nearestneighbor/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day158-HLD_S3_Quadtrees_nearestneighbor/notes/HLD___S3___Quad_Trees.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day158-HLD_S3_Quadtrees_nearestneighbor/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day158-HLD_S3_Quadtrees_nearestneighbor/src/main/java/com/scaler/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day159-HLD_CaseStudy5_DesignUber/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day159-HLD_CaseStudy5_DesignUber/notes/HLD___Case_Study_5___Uber.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day159-HLD_CaseStudy5_DesignUber/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day159-HLD_CaseStudy5_DesignUber/src/main/java/com/scaler/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day160-HLD_Popularinterviewquestions/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day160-HLD_Popularinterviewquestions/notes/HLD___Popular_Interview_Questions.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day160-HLD_Popularinterviewquestions/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day160-HLD_Popularinterviewquestions/src/main/java/com/scaler/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,16 +57,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "openjdk-19",
-    "last_opened_file_path": "C:/Users/abhil/IdeaProjects/HighLevelDesign/Day156-HLD_CaseStudy4_ElasticSearch/notes"
+    "last_opened_file_path": "C:/Users/abhil/IdeaProjects/HighLevelDesign/Day160-HLD_Popularinterviewquestions/notes"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day156-HLD_CaseStudy4_ElasticSearch\notes" />
-      <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day156-HLD_CaseStudy4_ElasticSearch" />
-      <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day155-HLD_Zookeeper_Kafka\notes" />
-      <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day155-HLD_Zookeeper_Kafka" />
-      <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day154-HLD_Casestudy3-Messaging\notes" />
+      <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day160-HLD_Popularinterviewquestions\notes" />
+      <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day160-HLD_Popularinterviewquestions" />
+      <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day159-HLD_CaseStudy5_DesignUber\notes" />
+      <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day159-HLD_CaseStudy5_DesignUber" />
+      <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day158-HLD_S3_Quadtrees_nearestneighbor\notes" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -150,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680553811595</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="code updated">
+      <created>1680554106304</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1680554106304</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
