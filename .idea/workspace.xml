@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="999c93c5-5e20-4d1d-8ed1-7f54ca626860" name="Changes" comment="code updated">
-      <change afterPath="$PROJECT_DIR$/Day155-HLD_Zookeeper_Kafka/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day155-HLD_Zookeeper_Kafka/notes/HLD___Zookeeper___Kafka.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day155-HLD_Zookeeper_Kafka/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day155-HLD_Zookeeper_Kafka/src/main/java/com/scaler/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day156-HLD_CaseStudy4_ElasticSearch/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day156-HLD_CaseStudy4_ElasticSearch/notes/HLD___Case_Study_4___ElasticSearch.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day156-HLD_CaseStudy4_ElasticSearch/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day156-HLD_CaseStudy4_ElasticSearch/src/main/java/com/scaler/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -45,16 +45,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "openjdk-19",
-    "last_opened_file_path": "C:/Users/abhil/IdeaProjects/HighLevelDesign/Day155-HLD_Zookeeper_Kafka/notes"
+    "last_opened_file_path": "C:/Users/abhil/IdeaProjects/HighLevelDesign/Day156-HLD_CaseStudy4_ElasticSearch/notes"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day156-HLD_CaseStudy4_ElasticSearch\notes" />
+      <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day156-HLD_CaseStudy4_ElasticSearch" />
       <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day155-HLD_Zookeeper_Kafka\notes" />
       <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day155-HLD_Zookeeper_Kafka" />
       <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day154-HLD_Casestudy3-Messaging\notes" />
-      <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day154-HLD_Casestudy3-Messaging" />
-      <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day153-HLD-Multimaster" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -143,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680553532112</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="code updated">
+      <created>1680553811595</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1680553811595</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
