@@ -28,6 +28,7 @@
         <module>Day159-HLD_CaseStudy5_DesignUber</module>
         <module>Day160-HLD_Popularinterviewquestions</module>
         <module>Day161-HLD_CaseStudy6_DesignHotstar</module>
+        <module>Day162-HLD_Microservices</module>
     </modules>
 
     <properties>
