@@ -5,12 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="999c93c5-5e20-4d1d-8ed1-7f54ca626860" name="Changes" comment="code updated">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day143-HLD_HLDBasics_ConsistentHashing/src/main/java/com/scaler/ConsistentHashing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day144-HLD_Caching-1/src/main/java/com/scaler/LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day152-HLD-Casestudy2-Typeahead/src/main/java/com/scaler/OnePercentSampling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day152-HLD-Casestudy2-Typeahead/src/main/java/com/scaler/TypeheadSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day152-HLD-Casestudy2-Typeahead/src/main/java/com/scaler/TypeheadSearchDecay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day153-HLD-Multimaster/src/main/java/com/scaler/BloomFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day160-HLD_Popularinterviewquestions/src/main/java/com/scaler/RateLimiter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,16 +56,16 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-19&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/abhil/IdeaProjects/HighLevelDesign/Day162-HLD_Microservices/notes&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/abhil/IdeaProjects/HighLevelDesign/Day163-HLD_Casestudy7_DesignIRCTC/notes&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day163-HLD_Casestudy7_DesignIRCTC\notes" />
+      <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day163-HLD_Casestudy7_DesignIRCTC" />
       <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day162-HLD_Microservices\notes" />
       <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day162-HLD_Microservices" />
       <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day161-HLD_CaseStudy6_DesignHotstar\notes" />
-      <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day161-HLD_CaseStudy6_DesignHotstar" />
-      <recent name="C:\Users\abhil\IdeaProjects\HighLevelDesign\Day160-HLD_Popularinterviewquestions\notes" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -166,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681126512952</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="code updated">
+      <created>1681194558047</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1681194558047</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
